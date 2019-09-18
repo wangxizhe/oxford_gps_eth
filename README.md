@@ -48,7 +48,7 @@ Data is not published until the OxTS unit reports itself as being completely ini
 ### 安装方法
 ```
   mkdir -p oxfordDriver/src  && cd oxfordDriver/src
-  git clone https://github.com/luhongquan66/oxford_gps_eth.git
+  git clone https://github.com/wangxizhe/oxford_gps_eth.git
   cd oxford_gps_eth/
   git checkout -b neuav origin/neuav
   cd ../..
